@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 
+I am a PhD student at the Division of Decision and Control Systems, the School of Electrical Engineering and Computer Science, KTH Royal Institute of Technology, under the supervision of Prof. Håkan Hjalmarsson and Prof. Alexandre Proutiere.
+
+
